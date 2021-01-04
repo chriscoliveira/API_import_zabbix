@@ -1,0 +1,2464 @@
+{
+    "shapes": [
+        {
+            "font_size": 25, 
+            "text": "Tenda Atacado CT34 Monitoramento Zabbix", 
+            "height": 80, 
+            "width": 300, 
+            "border_type": 0, 
+            "font_color": "FF0000", 
+            "y": 20, 
+            "x": 150, 
+            "font": 9, 
+            "type": 0
+        }, 
+        {
+            "font_size": 11, 
+            "text": "PDV", 
+            "height": 100, 
+            "width": 50, 
+            "border_type": 0, 
+            "font_color": "FF0000", 
+            "y": 125, 
+            "x": 0, 
+            "font": 9, 
+            "type": 0
+        }, 
+        {
+            "font_size": 11, 
+            "text": "SAT", 
+            "height": 100, 
+            "width": 50, 
+            "border_type": 0, 
+            "font_color": "FF0000", 
+            "y": 225, 
+            "x": 0, 
+            "font": 9, 
+            "type": 0
+        }, 
+        {
+            "font_size": 11, 
+            "text": "Terminal Consulta", 
+            "height": 100, 
+            "width": 50, 
+            "border_type": 0, 
+            "font_color": "FF0000", 
+            "y": 325, 
+            "x": 0, 
+            "font": 9, 
+            "type": 0
+        }, 
+        {
+            "font_size": 11, 
+            "text": "Maquina\nLinux", 
+            "height": 100, 
+            "width": 50, 
+            "border_type": 0, 
+            "font_color": "FF0000", 
+            "y": 425, 
+            "x": 0, 
+            "font": 9, 
+            "type": 0
+        }, 
+        {
+            "font_size": 11, 
+            "text": "Maquina\nWindows", 
+            "height": 100, 
+            "width": 50, 
+            "border_type": 0, 
+            "font_color": "FF0000", 
+            "y": 525, 
+            "x": 0, 
+            "font": 9, 
+            "type": 0
+        }, 
+        {
+            "font_size": 11, 
+            "text": "Impress.", 
+            "height": 100, 
+            "width": 50, 
+            "border_type": 0, 
+            "font_color": "FF0000", 
+            "y": 625, 
+            "x": 0, 
+            "font": 9, 
+            "type": 0
+        }, 
+        {
+            "font_size": 11, 
+            "text": "DVRS", 
+            "height": 100, 
+            "width": 50, 
+            "border_type": 0, 
+            "font_color": "FF0000", 
+            "y": 625, 
+            "x": 600, 
+            "font": 9, 
+            "type": 0
+        }, 
+        {
+            "font_size": 11, 
+            "text": "Cameras", 
+            "height": 100, 
+            "width": 50, 
+            "border_type": 0, 
+            "font_color": "FF0000", 
+            "y": 1125, 
+            "x": 0, 
+            "font": 9, 
+            "type": 0
+        }, 
+        {
+            "font_size": 11, 
+            "text": "Switch", 
+            "height": 100, 
+            "width": 50, 
+            "border_type": 0, 
+            "font_color": "FF0000", 
+            "y": 725, 
+            "x": 0, 
+            "font": 9, 
+            "type": 0
+        }, 
+        {
+            "font_size": 11, 
+            "text": "Telefone", 
+            "height": 100, 
+            "width": 50, 
+            "border_type": 0, 
+            "font_color": "FF0000", 
+            "y": 825, 
+            "x": 0, 
+            "font": 9, 
+            "type": 0
+        }, 
+        {
+            "font_size": 11, 
+            "text": "EDA", 
+            "height": 100, 
+            "width": 50, 
+            "border_type": 0, 
+            "font_color": "FF0000", 
+            "y": 925, 
+            "x": 0, 
+            "font": 9, 
+            "type": 0
+        }, 
+        {
+            "font_size": 11, 
+            "text": "Servidores", 
+            "height": 100, 
+            "width": 50, 
+            "border_type": 0, 
+            "font_color": "FF0000", 
+            "y": 0, 
+            "x": 500, 
+            "font": 9, 
+            "type": 0
+        }
+    ], 
+    "width": 1800, 
+    "selements": [
+        {
+            "selementid": 1, 
+            "iconid_off": 193, 
+            "elementtype": 4, 
+            "y": 20, 
+            "x": 50
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11721"
+                }
+            ], 
+            "y": 125, 
+            "iconid_off": 194, 
+            "selementid": "1", 
+            "x": 70, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11722"
+                }
+            ], 
+            "y": 125, 
+            "iconid_off": 194, 
+            "selementid": "1", 
+            "x": 125, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11723"
+                }
+            ], 
+            "y": 125, 
+            "iconid_off": 194, 
+            "selementid": "1", 
+            "x": 180, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11724"
+                }
+            ], 
+            "y": 125, 
+            "iconid_off": 194, 
+            "selementid": "1", 
+            "x": 235, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11725"
+                }
+            ], 
+            "y": 125, 
+            "iconid_off": 194, 
+            "selementid": "1", 
+            "x": 290, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11726"
+                }
+            ], 
+            "y": 125, 
+            "iconid_off": 194, 
+            "selementid": "1", 
+            "x": 345, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11727"
+                }
+            ], 
+            "y": 125, 
+            "iconid_off": 194, 
+            "selementid": "1", 
+            "x": 400, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11728"
+                }
+            ], 
+            "y": 125, 
+            "iconid_off": 194, 
+            "selementid": "1", 
+            "x": 455, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11729"
+                }
+            ], 
+            "y": 125, 
+            "iconid_off": 194, 
+            "selementid": "1", 
+            "x": 510, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11730"
+                }
+            ], 
+            "y": 125, 
+            "iconid_off": 194, 
+            "selementid": "1", 
+            "x": 565, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11731"
+                }
+            ], 
+            "y": 125, 
+            "iconid_off": 194, 
+            "selementid": "1", 
+            "x": 620, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11732"
+                }
+            ], 
+            "y": 125, 
+            "iconid_off": 194, 
+            "selementid": "1", 
+            "x": 675, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11733"
+                }
+            ], 
+            "y": 125, 
+            "iconid_off": 194, 
+            "selementid": "1", 
+            "x": 730, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11734"
+                }
+            ], 
+            "y": 125, 
+            "iconid_off": 194, 
+            "selementid": "1", 
+            "x": 785, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11735"
+                }
+            ], 
+            "y": 125, 
+            "iconid_off": 194, 
+            "selementid": "1", 
+            "x": 840, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11736"
+                }
+            ], 
+            "y": 125, 
+            "iconid_off": 194, 
+            "selementid": "1", 
+            "x": 895, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11737"
+                }
+            ], 
+            "y": 125, 
+            "iconid_off": 194, 
+            "selementid": "1", 
+            "x": 950, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11738"
+                }
+            ], 
+            "y": 125, 
+            "iconid_off": 194, 
+            "selementid": "1", 
+            "x": 1005, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11739"
+                }
+            ], 
+            "y": 125, 
+            "iconid_off": 194, 
+            "selementid": "1", 
+            "x": 1060, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11740"
+                }
+            ], 
+            "y": 125, 
+            "iconid_off": 194, 
+            "selementid": "1", 
+            "x": 1115, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11826"
+                }
+            ], 
+            "y": 225, 
+            "iconid_off": 192, 
+            "selementid": "1", 
+            "x": 70, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11827"
+                }
+            ], 
+            "y": 225, 
+            "iconid_off": 192, 
+            "selementid": "1", 
+            "x": 125, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11828"
+                }
+            ], 
+            "y": 225, 
+            "iconid_off": 192, 
+            "selementid": "1", 
+            "x": 180, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11829"
+                }
+            ], 
+            "y": 225, 
+            "iconid_off": 192, 
+            "selementid": "1", 
+            "x": 235, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11830"
+                }
+            ], 
+            "y": 225, 
+            "iconid_off": 192, 
+            "selementid": "1", 
+            "x": 290, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11831"
+                }
+            ], 
+            "y": 225, 
+            "iconid_off": 192, 
+            "selementid": "1", 
+            "x": 345, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11853"
+                }
+            ], 
+            "y": 325, 
+            "iconid_off": 190, 
+            "selementid": "1", 
+            "x": 70, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11855"
+                }
+            ], 
+            "y": 325, 
+            "iconid_off": 190, 
+            "selementid": "1", 
+            "x": 125, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11856"
+                }
+            ], 
+            "y": 325, 
+            "iconid_off": 190, 
+            "selementid": "1", 
+            "x": 180, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11857"
+                }
+            ], 
+            "y": 325, 
+            "iconid_off": 190, 
+            "selementid": "1", 
+            "x": 235, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11858"
+                }
+            ], 
+            "y": 325, 
+            "iconid_off": 190, 
+            "selementid": "1", 
+            "x": 290, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11859"
+                }
+            ], 
+            "y": 325, 
+            "iconid_off": 190, 
+            "selementid": "1", 
+            "x": 345, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11860"
+                }
+            ], 
+            "y": 325, 
+            "iconid_off": 190, 
+            "selementid": "1", 
+            "x": 400, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11861"
+                }
+            ], 
+            "y": 325, 
+            "iconid_off": 190, 
+            "selementid": "1", 
+            "x": 455, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11862"
+                }
+            ], 
+            "y": 325, 
+            "iconid_off": 190, 
+            "selementid": "1", 
+            "x": 510, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11863"
+                }
+            ], 
+            "y": 325, 
+            "iconid_off": 190, 
+            "selementid": "1", 
+            "x": 565, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11864"
+                }
+            ], 
+            "y": 325, 
+            "iconid_off": 190, 
+            "selementid": "1", 
+            "x": 620, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11865"
+                }
+            ], 
+            "y": 325, 
+            "iconid_off": 190, 
+            "selementid": "1", 
+            "x": 675, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11866"
+                }
+            ], 
+            "y": 325, 
+            "iconid_off": 190, 
+            "selementid": "1", 
+            "x": 730, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11867"
+                }
+            ], 
+            "y": 325, 
+            "iconid_off": 190, 
+            "selementid": "1", 
+            "x": 785, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11868"
+                }
+            ], 
+            "y": 325, 
+            "iconid_off": 190, 
+            "selementid": "1", 
+            "x": 840, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11709"
+                }
+            ], 
+            "y": 425, 
+            "iconid_off": 189, 
+            "selementid": "1", 
+            "x": 70, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11710"
+                }
+            ], 
+            "y": 425, 
+            "iconid_off": 189, 
+            "selementid": "1", 
+            "x": 125, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11711"
+                }
+            ], 
+            "y": 425, 
+            "iconid_off": 189, 
+            "selementid": "1", 
+            "x": 180, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11712"
+                }
+            ], 
+            "y": 425, 
+            "iconid_off": 189, 
+            "selementid": "1", 
+            "x": 235, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11713"
+                }
+            ], 
+            "y": 425, 
+            "iconid_off": 189, 
+            "selementid": "1", 
+            "x": 290, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11714"
+                }
+            ], 
+            "y": 425, 
+            "iconid_off": 189, 
+            "selementid": "1", 
+            "x": 345, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11715"
+                }
+            ], 
+            "y": 425, 
+            "iconid_off": 189, 
+            "selementid": "1", 
+            "x": 400, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11716"
+                }
+            ], 
+            "y": 425, 
+            "iconid_off": 189, 
+            "selementid": "1", 
+            "x": 455, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11717"
+                }
+            ], 
+            "y": 425, 
+            "iconid_off": 189, 
+            "selementid": "1", 
+            "x": 510, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11718"
+                }
+            ], 
+            "y": 425, 
+            "iconid_off": 189, 
+            "selementid": "1", 
+            "x": 565, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11697"
+                }
+            ], 
+            "y": 525, 
+            "iconid_off": 188, 
+            "selementid": "1", 
+            "x": 70, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11698"
+                }
+            ], 
+            "y": 525, 
+            "iconid_off": 188, 
+            "selementid": "1", 
+            "x": 125, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11699"
+                }
+            ], 
+            "y": 525, 
+            "iconid_off": 188, 
+            "selementid": "1", 
+            "x": 180, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11700"
+                }
+            ], 
+            "y": 525, 
+            "iconid_off": 188, 
+            "selementid": "1", 
+            "x": 235, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11701"
+                }
+            ], 
+            "y": 525, 
+            "iconid_off": 188, 
+            "selementid": "1", 
+            "x": 290, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11702"
+                }
+            ], 
+            "y": 525, 
+            "iconid_off": 188, 
+            "selementid": "1", 
+            "x": 345, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11703"
+                }
+            ], 
+            "y": 525, 
+            "iconid_off": 188, 
+            "selementid": "1", 
+            "x": 400, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11704"
+                }
+            ], 
+            "y": 525, 
+            "iconid_off": 188, 
+            "selementid": "1", 
+            "x": 455, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11705"
+                }
+            ], 
+            "y": 525, 
+            "iconid_off": 188, 
+            "selementid": "1", 
+            "x": 510, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11706"
+                }
+            ], 
+            "y": 525, 
+            "iconid_off": 188, 
+            "selementid": "1", 
+            "x": 565, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11707"
+                }
+            ], 
+            "y": 525, 
+            "iconid_off": 188, 
+            "selementid": "1", 
+            "x": 620, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11844"
+                }
+            ], 
+            "y": 625, 
+            "iconid_off": 196, 
+            "selementid": "1", 
+            "x": 70, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11845"
+                }
+            ], 
+            "y": 625, 
+            "iconid_off": 196, 
+            "selementid": "1", 
+            "x": 125, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11846"
+                }
+            ], 
+            "y": 625, 
+            "iconid_off": 196, 
+            "selementid": "1", 
+            "x": 180, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11848"
+                }
+            ], 
+            "y": 625, 
+            "iconid_off": 196, 
+            "selementid": "1", 
+            "x": 235, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11849"
+                }
+            ], 
+            "y": 625, 
+            "iconid_off": 196, 
+            "selementid": "1", 
+            "x": 290, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11850"
+                }
+            ], 
+            "y": 625, 
+            "iconid_off": 196, 
+            "selementid": "1", 
+            "x": 345, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11851"
+                }
+            ], 
+            "y": 625, 
+            "iconid_off": 196, 
+            "selementid": "1", 
+            "x": 400, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11852"
+                }
+            ], 
+            "y": 625, 
+            "iconid_off": 196, 
+            "selementid": "1", 
+            "x": 455, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "19019"
+                }
+            ], 
+            "y": 625, 
+            "iconid_off": 196, 
+            "selementid": "1", 
+            "x": 510, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11871"
+                }
+            ], 
+            "y": 625, 
+            "iconid_off": 195, 
+            "selementid": "1", 
+            "x": 675, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11873"
+                }
+            ], 
+            "y": 625, 
+            "iconid_off": 195, 
+            "selementid": "1", 
+            "x": 730, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11875"
+                }
+            ], 
+            "y": 625, 
+            "iconid_off": 195, 
+            "selementid": "1", 
+            "x": 785, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11876"
+                }
+            ], 
+            "y": 625, 
+            "iconid_off": 195, 
+            "selementid": "1", 
+            "x": 840, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "18297"
+                }
+            ], 
+            "y": 625, 
+            "iconid_off": 195, 
+            "selementid": "1", 
+            "x": 895, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "18298"
+                }
+            ], 
+            "y": 625, 
+            "iconid_off": 195, 
+            "selementid": "1", 
+            "x": 950, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "18884"
+                }
+            ], 
+            "y": 625, 
+            "iconid_off": 195, 
+            "selementid": "1", 
+            "x": 1005, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11832"
+                }
+            ], 
+            "y": 725, 
+            "iconid_off": 153, 
+            "selementid": "1", 
+            "x": 70, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11833"
+                }
+            ], 
+            "y": 725, 
+            "iconid_off": 153, 
+            "selementid": "1", 
+            "x": 125, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11834"
+                }
+            ], 
+            "y": 725, 
+            "iconid_off": 153, 
+            "selementid": "1", 
+            "x": 180, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11836"
+                }
+            ], 
+            "y": 725, 
+            "iconid_off": 153, 
+            "selementid": "1", 
+            "x": 235, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11837"
+                }
+            ], 
+            "y": 725, 
+            "iconid_off": 153, 
+            "selementid": "1", 
+            "x": 290, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11838"
+                }
+            ], 
+            "y": 725, 
+            "iconid_off": 153, 
+            "selementid": "1", 
+            "x": 345, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "16948"
+                }
+            ], 
+            "y": 725, 
+            "iconid_off": 153, 
+            "selementid": "1", 
+            "x": 400, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "18408"
+                }
+            ], 
+            "y": 725, 
+            "iconid_off": 153, 
+            "selementid": "1", 
+            "x": 455, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "19030"
+                }
+            ], 
+            "y": 725, 
+            "iconid_off": 153, 
+            "selementid": "1", 
+            "x": 510, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11794"
+                }
+            ], 
+            "y": 825, 
+            "iconid_off": 77, 
+            "selementid": "1", 
+            "x": 70, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11795"
+                }
+            ], 
+            "y": 825, 
+            "iconid_off": 77, 
+            "selementid": "1", 
+            "x": 125, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11796"
+                }
+            ], 
+            "y": 825, 
+            "iconid_off": 77, 
+            "selementid": "1", 
+            "x": 180, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11797"
+                }
+            ], 
+            "y": 825, 
+            "iconid_off": 77, 
+            "selementid": "1", 
+            "x": 235, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11798"
+                }
+            ], 
+            "y": 825, 
+            "iconid_off": 77, 
+            "selementid": "1", 
+            "x": 290, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11799"
+                }
+            ], 
+            "y": 825, 
+            "iconid_off": 77, 
+            "selementid": "1", 
+            "x": 345, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11800"
+                }
+            ], 
+            "y": 825, 
+            "iconid_off": 77, 
+            "selementid": "1", 
+            "x": 400, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11801"
+                }
+            ], 
+            "y": 825, 
+            "iconid_off": 77, 
+            "selementid": "1", 
+            "x": 455, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11802"
+                }
+            ], 
+            "y": 825, 
+            "iconid_off": 77, 
+            "selementid": "1", 
+            "x": 510, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11803"
+                }
+            ], 
+            "y": 825, 
+            "iconid_off": 77, 
+            "selementid": "1", 
+            "x": 565, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11804"
+                }
+            ], 
+            "y": 825, 
+            "iconid_off": 77, 
+            "selementid": "1", 
+            "x": 620, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11805"
+                }
+            ], 
+            "y": 825, 
+            "iconid_off": 77, 
+            "selementid": "1", 
+            "x": 675, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11806"
+                }
+            ], 
+            "y": 825, 
+            "iconid_off": 77, 
+            "selementid": "1", 
+            "x": 730, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11807"
+                }
+            ], 
+            "y": 825, 
+            "iconid_off": 77, 
+            "selementid": "1", 
+            "x": 785, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11808"
+                }
+            ], 
+            "y": 825, 
+            "iconid_off": 77, 
+            "selementid": "1", 
+            "x": 840, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11809"
+                }
+            ], 
+            "y": 825, 
+            "iconid_off": 77, 
+            "selementid": "1", 
+            "x": 895, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11810"
+                }
+            ], 
+            "y": 825, 
+            "iconid_off": 77, 
+            "selementid": "1", 
+            "x": 950, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11811"
+                }
+            ], 
+            "y": 825, 
+            "iconid_off": 77, 
+            "selementid": "1", 
+            "x": 1005, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11812"
+                }
+            ], 
+            "y": 825, 
+            "iconid_off": 77, 
+            "selementid": "1", 
+            "x": 1060, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11762"
+                }
+            ], 
+            "y": 925, 
+            "iconid_off": 197, 
+            "selementid": "1", 
+            "x": 70, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11763"
+                }
+            ], 
+            "y": 925, 
+            "iconid_off": 197, 
+            "selementid": "1", 
+            "x": 125, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11764"
+                }
+            ], 
+            "y": 925, 
+            "iconid_off": 197, 
+            "selementid": "1", 
+            "x": 180, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11765"
+                }
+            ], 
+            "y": 925, 
+            "iconid_off": 197, 
+            "selementid": "1", 
+            "x": 235, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11766"
+                }
+            ], 
+            "y": 925, 
+            "iconid_off": 197, 
+            "selementid": "1", 
+            "x": 290, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11767"
+                }
+            ], 
+            "y": 925, 
+            "iconid_off": 197, 
+            "selementid": "1", 
+            "x": 345, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11768"
+                }
+            ], 
+            "y": 925, 
+            "iconid_off": 197, 
+            "selementid": "1", 
+            "x": 400, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11769"
+                }
+            ], 
+            "y": 925, 
+            "iconid_off": 197, 
+            "selementid": "1", 
+            "x": 455, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11770"
+                }
+            ], 
+            "y": 925, 
+            "iconid_off": 197, 
+            "selementid": "1", 
+            "x": 510, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11771"
+                }
+            ], 
+            "y": 925, 
+            "iconid_off": 197, 
+            "selementid": "1", 
+            "x": 565, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11772"
+                }
+            ], 
+            "y": 925, 
+            "iconid_off": 197, 
+            "selementid": "1", 
+            "x": 620, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11773"
+                }
+            ], 
+            "y": 925, 
+            "iconid_off": 197, 
+            "selementid": "1", 
+            "x": 675, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11774"
+                }
+            ], 
+            "y": 925, 
+            "iconid_off": 197, 
+            "selementid": "1", 
+            "x": 730, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11775"
+                }
+            ], 
+            "y": 925, 
+            "iconid_off": 197, 
+            "selementid": "1", 
+            "x": 785, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11776"
+                }
+            ], 
+            "y": 925, 
+            "iconid_off": 197, 
+            "selementid": "1", 
+            "x": 840, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11777"
+                }
+            ], 
+            "y": 925, 
+            "iconid_off": 197, 
+            "selementid": "1", 
+            "x": 895, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11778"
+                }
+            ], 
+            "y": 925, 
+            "iconid_off": 197, 
+            "selementid": "1", 
+            "x": 950, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11780"
+                }
+            ], 
+            "y": 925, 
+            "iconid_off": 197, 
+            "selementid": "1", 
+            "x": 1005, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11781"
+                }
+            ], 
+            "y": 925, 
+            "iconid_off": 197, 
+            "selementid": "1", 
+            "x": 1060, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11782"
+                }
+            ], 
+            "y": 925, 
+            "iconid_off": 197, 
+            "selementid": "1", 
+            "x": 1115, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11783"
+                }
+            ], 
+            "y": 925, 
+            "iconid_off": 197, 
+            "selementid": "1", 
+            "x": 1170, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11784"
+                }
+            ], 
+            "y": 925, 
+            "iconid_off": 197, 
+            "selementid": "1", 
+            "x": 1225, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11785"
+                }
+            ], 
+            "y": 925, 
+            "iconid_off": 197, 
+            "selementid": "1", 
+            "x": 1280, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11786"
+                }
+            ], 
+            "y": 925, 
+            "iconid_off": 197, 
+            "selementid": "1", 
+            "x": 1335, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11787"
+                }
+            ], 
+            "y": 925, 
+            "iconid_off": 197, 
+            "selementid": "1", 
+            "x": 1390, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11788"
+                }
+            ], 
+            "y": 1025, 
+            "iconid_off": 197, 
+            "selementid": "1", 
+            "x": 70, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11789"
+                }
+            ], 
+            "y": 1025, 
+            "iconid_off": 197, 
+            "selementid": "1", 
+            "x": 125, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11790"
+                }
+            ], 
+            "y": 1025, 
+            "iconid_off": 197, 
+            "selementid": "1", 
+            "x": 180, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11791"
+                }
+            ], 
+            "y": 1025, 
+            "iconid_off": 197, 
+            "selementid": "1", 
+            "x": 235, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11792"
+                }
+            ], 
+            "y": 1025, 
+            "iconid_off": 197, 
+            "selementid": "1", 
+            "x": 290, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11793"
+                }
+            ], 
+            "y": 1025, 
+            "iconid_off": 197, 
+            "selementid": "1", 
+            "x": 345, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11779"
+                }
+            ], 
+            "y": 1025, 
+            "iconid_off": 197, 
+            "selementid": "1", 
+            "x": 400, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11813"
+                }
+            ], 
+            "y": 1125, 
+            "iconid_off": 191, 
+            "selementid": "1", 
+            "x": 70, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11814"
+                }
+            ], 
+            "y": 1125, 
+            "iconid_off": 191, 
+            "selementid": "1", 
+            "x": 125, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11815"
+                }
+            ], 
+            "y": 1125, 
+            "iconid_off": 191, 
+            "selementid": "1", 
+            "x": 180, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11816"
+                }
+            ], 
+            "y": 1125, 
+            "iconid_off": 191, 
+            "selementid": "1", 
+            "x": 235, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11817"
+                }
+            ], 
+            "y": 1125, 
+            "iconid_off": 191, 
+            "selementid": "1", 
+            "x": 290, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11823"
+                }
+            ], 
+            "y": 1125, 
+            "iconid_off": 191, 
+            "selementid": "1", 
+            "x": 345, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "19036"
+                }
+            ], 
+            "y": 1125, 
+            "iconid_off": 191, 
+            "selementid": "1", 
+            "x": 400, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "19037"
+                }
+            ], 
+            "y": 1125, 
+            "iconid_off": 191, 
+            "selementid": "1", 
+            "x": 455, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "19038"
+                }
+            ], 
+            "y": 1125, 
+            "iconid_off": 191, 
+            "selementid": "1", 
+            "x": 510, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "19039"
+                }
+            ], 
+            "y": 1125, 
+            "iconid_off": 191, 
+            "selementid": "1", 
+            "x": 565, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "19040"
+                }
+            ], 
+            "y": 1125, 
+            "iconid_off": 191, 
+            "selementid": "1", 
+            "x": 620, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "19041"
+                }
+            ], 
+            "y": 1125, 
+            "iconid_off": 191, 
+            "selementid": "1", 
+            "x": 675, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "19042"
+                }
+            ], 
+            "y": 1125, 
+            "iconid_off": 191, 
+            "selementid": "1", 
+            "x": 730, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "19043"
+                }
+            ], 
+            "y": 1125, 
+            "iconid_off": 191, 
+            "selementid": "1", 
+            "x": 785, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "19044"
+                }
+            ], 
+            "y": 1125, 
+            "iconid_off": 191, 
+            "selementid": "1", 
+            "x": 840, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "19045"
+                }
+            ], 
+            "y": 1125, 
+            "iconid_off": 191, 
+            "selementid": "1", 
+            "x": 895, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "19046"
+                }
+            ], 
+            "y": 1125, 
+            "iconid_off": 191, 
+            "selementid": "1", 
+            "x": 950, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "19047"
+                }
+            ], 
+            "y": 1125, 
+            "iconid_off": 191, 
+            "selementid": "1", 
+            "x": 1005, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "19048"
+                }
+            ], 
+            "y": 1125, 
+            "iconid_off": 191, 
+            "selementid": "1", 
+            "x": 1060, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "19049"
+                }
+            ], 
+            "y": 1125, 
+            "iconid_off": 191, 
+            "selementid": "1", 
+            "x": 1115, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "19050"
+                }
+            ], 
+            "y": 1125, 
+            "iconid_off": 191, 
+            "selementid": "1", 
+            "x": 1170, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "19051"
+                }
+            ], 
+            "y": 1125, 
+            "iconid_off": 191, 
+            "selementid": "1", 
+            "x": 1225, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "19052"
+                }
+            ], 
+            "y": 1125, 
+            "iconid_off": 191, 
+            "selementid": "1", 
+            "x": 1280, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "19053"
+                }
+            ], 
+            "y": 1125, 
+            "iconid_off": 191, 
+            "selementid": "1", 
+            "x": 1335, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "19054"
+                }
+            ], 
+            "y": 1125, 
+            "iconid_off": 191, 
+            "selementid": "1", 
+            "x": 1390, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "19055"
+                }
+            ], 
+            "y": 1225, 
+            "iconid_off": 191, 
+            "selementid": "1", 
+            "x": 70, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "19056"
+                }
+            ], 
+            "y": 1225, 
+            "iconid_off": 191, 
+            "selementid": "1", 
+            "x": 125, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "19057"
+                }
+            ], 
+            "y": 1225, 
+            "iconid_off": 191, 
+            "selementid": "1", 
+            "x": 180, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "19058"
+                }
+            ], 
+            "y": 1225, 
+            "iconid_off": 191, 
+            "selementid": "1", 
+            "x": 235, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "19059"
+                }
+            ], 
+            "y": 1225, 
+            "iconid_off": 191, 
+            "selementid": "1", 
+            "x": 290, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "19060"
+                }
+            ], 
+            "y": 1225, 
+            "iconid_off": 191, 
+            "selementid": "1", 
+            "x": 345, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "19061"
+                }
+            ], 
+            "y": 1225, 
+            "iconid_off": 191, 
+            "selementid": "1", 
+            "x": 400, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "19062"
+                }
+            ], 
+            "y": 1225, 
+            "iconid_off": 191, 
+            "selementid": "1", 
+            "x": 455, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "19063"
+                }
+            ], 
+            "y": 1225, 
+            "iconid_off": 191, 
+            "selementid": "1", 
+            "x": 510, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "19064"
+                }
+            ], 
+            "y": 1225, 
+            "iconid_off": 191, 
+            "selementid": "1", 
+            "x": 565, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "19065"
+                }
+            ], 
+            "y": 1225, 
+            "iconid_off": 191, 
+            "selementid": "1", 
+            "x": 620, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "19066"
+                }
+            ], 
+            "y": 1225, 
+            "iconid_off": 191, 
+            "selementid": "1", 
+            "x": 675, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "19067"
+                }
+            ], 
+            "y": 1225, 
+            "iconid_off": 191, 
+            "selementid": "1", 
+            "x": 730, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "19068"
+                }
+            ], 
+            "y": 1225, 
+            "iconid_off": 191, 
+            "selementid": "1", 
+            "x": 785, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "19069"
+                }
+            ], 
+            "y": 1225, 
+            "iconid_off": 191, 
+            "selementid": "1", 
+            "x": 840, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "19070"
+                }
+            ], 
+            "y": 1225, 
+            "iconid_off": 191, 
+            "selementid": "1", 
+            "x": 895, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "19071"
+                }
+            ], 
+            "y": 1225, 
+            "iconid_off": 191, 
+            "selementid": "1", 
+            "x": 950, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "19072"
+                }
+            ], 
+            "y": 1225, 
+            "iconid_off": 191, 
+            "selementid": "1", 
+            "x": 1005, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "19073"
+                }
+            ], 
+            "y": 1225, 
+            "iconid_off": 191, 
+            "selementid": "1", 
+            "x": 1060, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "19074"
+                }
+            ], 
+            "y": 1225, 
+            "iconid_off": 191, 
+            "selementid": "1", 
+            "x": 1115, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "19075"
+                }
+            ], 
+            "y": 1225, 
+            "iconid_off": 191, 
+            "selementid": "1", 
+            "x": 1170, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "19076"
+                }
+            ], 
+            "y": 1225, 
+            "iconid_off": 191, 
+            "selementid": "1", 
+            "x": 1225, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "19077"
+                }
+            ], 
+            "y": 1225, 
+            "iconid_off": 191, 
+            "selementid": "1", 
+            "x": 1280, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "19078"
+                }
+            ], 
+            "y": 1225, 
+            "iconid_off": 191, 
+            "selementid": "1", 
+            "x": 1335, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "19079"
+                }
+            ], 
+            "y": 1225, 
+            "iconid_off": 191, 
+            "selementid": "1", 
+            "x": 1390, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11891"
+                }
+            ], 
+            "y": 30, 
+            "iconid_off": 149, 
+            "selementid": "1", 
+            "x": 620, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11893"
+                }
+            ], 
+            "y": 30, 
+            "iconid_off": 149, 
+            "selementid": "1", 
+            "x": 675, 
+            "elementtype": 0
+        }, 
+        {
+            "elements": [
+                {
+                    "hostid": "11894"
+                }
+            ], 
+            "y": 30, 
+            "iconid_off": 149, 
+            "selementid": "1", 
+            "x": 730, 
+            "elementtype": 0
+        }
+    ], 
+    "name": "Mapa_LOJA_CT34", 
+    "height": 1625
+}
